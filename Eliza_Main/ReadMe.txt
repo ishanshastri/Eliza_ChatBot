@@ -3,3 +3,4 @@ This folder consist of the necessary functionality to run the program as a conso
 the ConsoleLogger class implements the ILogger interface (present in the Eliza folder), and consists of the methods necessary to perform logging operations for a console application.
 
 Furthermore, this folder contains the Program class, which consist of the Main method that runs the console application. 
+
