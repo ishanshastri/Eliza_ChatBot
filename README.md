@@ -10,4 +10,4 @@ The different sections on this website will guide you through the process that m
 and provide a thorough explanation of each step and any tips discovered along the way.
 
 Note that this journey has been one of learning for me, and thus the steps presented on the website reflect this format by providing key tips and reasoning throughout that may
-seem redundant for a seasoned programmer; it was my first project, and these concepts were relatively new to me at the time. Note that the website logs our progress working on the project in real-time; as we completed each stage of functionality, we uploaded a web-page. 
+seem redundant for a seasoned programmer; it was my first project, and these concepts were relatively new to me at the time. Note that the website logs our progress working on the project in real-time; as we completed each stage of functionality, we uploaded a new page (each page is date-stamped).
